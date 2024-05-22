@@ -1,7 +1,0 @@
-name: Hello word
-
-on:
-  push:
-      branches: ["**"]
-
-  
